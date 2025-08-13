@@ -9,3 +9,18 @@ body {
 .images{
   text-align: center;
 }
+#featured-property{
+  text-align: center;
+}
+.ng{
+  background-color: red;
+  text-align: center;
+  width: 20%;
+  float: left;
+}
+.on{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  background-color: red;
+}
